@@ -1,2 +1,2 @@
 # MultiplicationbyLoop
-Multiplication table code using for loop
+Multiplication table code using while loop
